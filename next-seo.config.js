@@ -1,7 +1,7 @@
 const title = 'Next.js Chakra Starter | Rizan Qardafil';
 const description =
   'An opinionated starter project with Next.js and Chakra UI. Created by Rizan Qardafil';
-const url = 'https://nextjs-chakra-rizanqardafil.vercel.app';
+const url = 'https://next-ui-chakra-five.vercel.app/';
 
 const SEO = {
   title,

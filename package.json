@@ -2,7 +2,7 @@
   "name": "next-chakra-starter",
   "description": "An opinionated simple starter / template project with Next.js and Chakra UI.",
   "version": "1.0.0",
-  "repository": "git@github.com:rizanqardafil/next-chakra-starter.git",
+  "repository": "git@github.com/rizanqardafil/next-ui-chakra-template.git",
   "private": true,
   "scripts": {
     "dev": "next dev",

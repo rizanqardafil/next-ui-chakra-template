@@ -5,7 +5,7 @@ const Star = () => {
   const { colorMode } = useColorMode();
 
   return (
-    <Link href="https://github.com/rizanqardafil/next-chakra-starter" isExternal>
+    <Link href="https://github.com/rizanqardafil/next-ui-chakra-template" isExternal>
       <HStack
         zIndex="docked"
         pos="fixed"

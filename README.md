@@ -4,10 +4,10 @@
 
 ## Getting Started
 
-1. Clone this template using [degit](https://github.com/Rich-Harris/degit), change "next-chakra-project" with your own project name <br />
+1. Clone this template using [degit](https://github.com/Rich-Harris/degit), change "next-chakra-template" with your own project name <br />
 
    ```bash
-    npx degit rizanqardafil/next-chakra-starter "next-chakra-project"
+    npx degit rizanqardafil/next-ui-chakra-template "next-ui-chakra-template"
    ```
 
 2. Install all dependencies <br />
@@ -15,14 +15,14 @@
    Recommended using yarn
 
    ```bash
-    cd next-chakra-project
+    cd next-ui-chakra-template
     yarn
    ```
 
    or using npm
 
    ```bash
-    cd next-chakra-project
+    cd next-ui-chakra-template
     npm install
    ```
 
